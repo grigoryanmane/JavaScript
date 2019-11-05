@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "readline-sync": "^1.4.10",
-    "underscore": "^1.9.1"
+    "readline-sync": "^1.4.10"
   }
 }
