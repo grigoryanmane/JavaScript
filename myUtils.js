@@ -1,7 +1,3 @@
-
-
-
-
 module.exports = {
 	isPrime: function(n) {
 		if(n <=1) {
